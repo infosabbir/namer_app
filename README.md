@@ -2,4 +2,4 @@
 
 Which generate random name and you can choose favorite on pressed by like button.
 
-![Animation.gif](assets%2FAnimation.gif)
+![Animation.gif](assets%2FAnimation.gif,width:300, height:500)
